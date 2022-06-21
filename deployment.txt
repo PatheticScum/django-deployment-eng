@@ -91,7 +91,7 @@ Type these above in your .gitignore file.
 
 Description:
 
-These files will not be deployed and will not be added to venv.
+These files will not be deployed and will not be added to git.
 Heroku provides you all packages for your project according to your requirements.txt.
 
 
