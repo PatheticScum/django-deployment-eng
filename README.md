@@ -153,7 +153,7 @@ Enter this in your terminal in order to create a git where all your project will
 
 16) git add .
 
-By doing this, you add all files to the git that ypu create earlier.
+By doing this, you add all files to the git that you created earlier.
 
 
 17) git commit -m 'initial'
